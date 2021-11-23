@@ -27,9 +27,11 @@
 
   ## Description
   
-This project is, in part, to fulfill the technical requirement of the UT Coding Bootcamp to build a full stack application following the Model-View-Controller architecture. My contributions to the project are the following:
+This project is, in part, to fulfill the technical requirement of the UT Coding Bootcamp to build a full stack application following the Model-View-Controller architecture. 
 
-- Set up the Model-View-Controller file structure and logic along with `Express` routes, user and `Handlebars` templates
+My contributions to the project are the following:
+
+- Set up the Model-View-Controller(MVC) file structure and logic along with `Express` routes and `Handlebars` templates
 - Design and code the front end and the back end for landing page, sign-in page, and sign-up page.
 - Create the User model and implement User authentication using `bcrypt`. 
 
