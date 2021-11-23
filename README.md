@@ -34,13 +34,14 @@ My contributions to the project are the following:
 - Set up the Model-View-Controller(MVC) file structure and logic along with `Express` routes and `Handlebars` templates
 - Design and code the front end and the back end for landing page, sign-in page, and sign-up page.
 - Create the User model and implement User authentication using `bcrypt`. 
+- Create README
 
 Since I was already familiar with these technologies, the biggest takeaway I had was working with peers and managing through the hurdles/merge conflicts on github.  
 
   ## Demo
   
   
-  ![Purple-Minutes-Style-Demo (1)](https://user-images.githubusercontent.com/82625726/142786146-b6f3fa69-64bd-4336-94c9-97b401beb590.gif)
+  ![Purple-Minutes-Style-Demo (1)](https://)
 
 
 
@@ -48,7 +49,7 @@ Since I was already familiar with these technologies, the biggest takeaway I had
 
   Use the following url to clone the repository:
 
-  `git clone https://github.com/izztnkr/Project2_Purple_Minutes_Style`
+  `git clone https://github.com/benkaan001/Project2_Purple_Minutes_Style`
 
 
   `npm install` to install all the production and development dependencies highlighted in `package.json` file.
