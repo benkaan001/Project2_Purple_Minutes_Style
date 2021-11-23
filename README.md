@@ -1,4 +1,4 @@
-<h1 align ="center"> Project2_Purple_Minutes_Style </h1>
+<h1 align ="center"> Purple Minutes Style </h1>
 
 <h2 align="center">Model-View-Controller (MVC)  built with </h2>
 <p align="center">
@@ -41,7 +41,7 @@ Since I was already familiar with these technologies, the biggest takeaway I had
   ## Demo
   
   
-  ![Purple-Minutes-Style-Demo (1)](https://)
+  ![Purple-Minutes-Style-Demo (1)](https://github.com/benkaan001/Project2_Purple_Minutes_Style/blob/main/purple.gif)
 
 
 
